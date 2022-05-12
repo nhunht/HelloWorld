@@ -10,11 +10,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://jogesh_k_muppala@bitbucket.org/jogesh_k_muppala/git-test.git"
+    "url": "https://github.com/nhunht/HelloWorld.git"
   },
-  "author": "",
+  "author": "TrucNhu",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/jogesh_k_muppala/git-test#readme",
+  "homepage": "https://github.com/nhunht/HelloWorld.git",
   "devDependencies": {
     "lite-server": "^2.6.1"
   }
